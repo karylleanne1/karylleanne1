@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Karylle Anne M. Viterbo
 
-<!--
-**karylleanne1/karylleanne1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+- 🎓 21 years old, currently a **4th year BSIT student** at **Laguna State Polytechnic University**
 
-Here are some ideas to get you started:
+## 🎯 Goals
+- 🌱 Currently learning **Python, Flask, SQL, Flutter, and Dart**  
+- 🎯 Goal: To contribute to **open-source projects** and collaborate with other developers 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills  
+🐍 Python – Beginner level  
+🗄️ SQL (MySQL) – Basic knowledge   
+🖥️ HTML, CSS, JavaScript – Familiar with front-end basics  
+📱 Flutter – Exploring mobile app development  
+
+## 📫 Connect with Me  
+- 📧 Email: [karylleanne75@gmail.com] 
+
+---
+
+💡 *“Every expert was once a beginner.”*
